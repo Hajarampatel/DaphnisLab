@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DaphnisLab/static/css/main.0fa6e501.css",
+    "main.js": "/DaphnisLab/static/js/main.c3272e5b.js",
+    "index.html": "/DaphnisLab/index.html",
+    "main.0fa6e501.css.map": "/DaphnisLab/static/css/main.0fa6e501.css.map",
+    "main.c3272e5b.js.map": "/DaphnisLab/static/js/main.c3272e5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa6e501.css",
+    "static/js/main.c3272e5b.js"
+  ]
+}
